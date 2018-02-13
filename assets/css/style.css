@@ -1,0 +1,65 @@
+body {
+	background: pink;
+}
+
+h1,h5 {
+	font-weight: bold;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	padding-left: 10px;
+	color: black;
+}
+
+h5 {
+	padding-top: 15px;
+	padding-bottom: 30px;
+	
+}
+
+.magicnumber {
+	background-color: white;
+	border-style: solid;
+	margin: 15px;
+	max-width: 200px;
+	text-align: center;
+	font-weight: bold;
+	
+
+}
+
+.winslosses {
+	background-color: white;
+	margin: 15px;
+	border: solid 2px;
+	max-width: 100px;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+#crystalImages {
+	background-color: white;
+	border-style: solid;
+	margin: 15px;
+	position: relative;
+	width: 100%;
+	max-width: 550px;
+}
+
+.click {
+	margin-left: 20px;
+	padding: 1em;
+}
+
+
+.crystaltotal {
+	background-color: white;
+	border-style: solid;
+	margin: 15px;
+	max-width: 200px;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+
+
